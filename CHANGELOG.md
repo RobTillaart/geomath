@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
-## [0.1.2] - 2026-04-17
+## [0.1.3] - 2026-04-17
 - fix #2, gravity estimator formula
 - update GitHub actions
 - minor edits
