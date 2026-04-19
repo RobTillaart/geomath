@@ -48,7 +48,7 @@ float gravity(float latitude, float altitude = 0.0f)
   
   if (altitude != 0.0f)
   {
-    g -= (3.086E-6 x altitude);
+    g -= (3.086E-6 * altitude);
   }
   return g;
 }
